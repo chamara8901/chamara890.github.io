@@ -1,10 +1,18 @@
 ---
-title: tailwind test font color test 1
+title: "Tailwind Font color Test "
 date: 2022-06-28T07:58:49.868Z
 image: download.png
 ---
-`<body>`
 
-`<div class="text-red-700 font bold">Grrow</div>`
 
-`</body>`
+<h1 class="font-bold uppercase pborder-b border-gray-100">
+
+<a href="/" class="hover:text-gray-700 tracking-widest">Food Ninja</a>
+
+Tailwind cssで書き換えてもフォントの色とうか変更出来ませんでした。
+
+EXー：
+
+h1 class="font-bold uppercase pborder-b border-gray-100">
+
+<a href="/" class="hover:text-gray-700 tracking-widest">Food Ninja</a
