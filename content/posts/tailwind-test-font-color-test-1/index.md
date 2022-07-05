@@ -5,7 +5,7 @@ image: download.png
 ---
 
 
-<h1 class="font-bold uppercase pborder-b border-gray-100">
+<h1 class="font-bold uppercase p-4 border-b border-gray-100">
 
 <a href="/" class="hover:text-gray-700 tracking-widest">Food Ninja</a>
 
@@ -13,6 +13,6 @@ Tailwind cssで書き換えてもフォントの色とうか変更出来ませ�
 
 EXー：
 
-h1 class="font-bold uppercase pborder-b border-gray-100">
+h1 class="font-bold uppercase p-4 border-b border-gray-100">
 
 <a href="/" class="hover:text-gray-700 tracking-widest">Food Ninja</a
