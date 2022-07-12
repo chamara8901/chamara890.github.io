@@ -1,5 +1,5 @@
 ---
-title: TEST - GRROW - 1^==
+title: TEST - GRROW - 1
 date: 2022-07-12T01:14:10.861Z
 image: ダウンロード.png
 ---
@@ -17,7 +17,9 @@ more text
 
 A zen master said 
 
-    **CODE SOMEONE**
+```
+**CODE SOMEONE**
+```
 
 >    To study the way is to study the self
 >
@@ -41,4 +43,4 @@ A numbered List:
 3. go to job
 4. more
 
-![Every time you open a pull request, or push new changes to a branch, Netlify automatically builds a preview with a unique URL. Like a staging environment for every PR or branch, previews are perfect for testing and collaboration.](ダウンロード.png "grrow")
+![](koube.png)
